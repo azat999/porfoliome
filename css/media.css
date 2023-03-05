@@ -1,0 +1,38 @@
+@media (min-width: 785px) {
+    .burger{
+        display: none;
+    }
+
+    
+}
+
+@media (max-width: 784px) {
+    .navbar{
+        display: none;
+    }
+}
+
+/* promo */
+
+@media (max-width:1124px){
+    .title-promo  {
+        font-size: 50px;
+
+    }
+}
+
+@media (max-width:978px) {
+    .title-promo{
+        font-size: 40px;
+    }
+}
+
+
+@media (max-width:820px) {
+    .title-promo{
+        font-size: 35px;
+    }
+}
+
+
+
